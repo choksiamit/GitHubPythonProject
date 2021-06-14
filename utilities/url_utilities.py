@@ -4,6 +4,7 @@ def load_urls_from_file():
 
 def load_page(url:str):
     #TODO : add the code that reads the url
+
     pass
 
 def scrape_page(page_contents:str):
